@@ -1,2 +1,12 @@
 # budgie
-Personal budget tracking app from bank file uploads
+Personal budget tracking app:
+* upload bank and credit card files
+* convenient filtering, sorting
+* conventient categorisation, recategorisation
+* auto categorisation rules
+* export csv
+
+Aims to support uploads from:
+* American Express AU (detailed format)
+* CBA bank accounts
+* CBA Mastercard
