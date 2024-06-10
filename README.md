@@ -1,5 +1,5 @@
 # budgie
-Personal budget tracking app:
+Personal spend tracking app:
 * upload bank and credit card files
 * convenient filtering, sorting
 * conventient categorisation, recategorisation
